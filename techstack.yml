@@ -1,7 +1,8 @@
 repo_name: maxgfr/tic-tac-toe-stdlib
 report_id: 70ec0fe87d964393282d54d34e875007
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:20:42+00:00'
+timestamp: '2024-01-05T08:55:58+00:00'
 requested_by: maxgfr
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/maxgfr/tic-tac-toe-stdlib
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/maxgfr/tic-tac-toe-stdlib
   detection_source: Repo Metadata
